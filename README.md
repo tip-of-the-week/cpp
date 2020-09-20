@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[192]](192.md) - Did you know about `std::expected` proposal for error handling?
 * [[191]](191.md) - Did you know that expression evaluation order is not specified?
 * [[190]](190.md) - Did you know that C++20 added `ostream_joiner` that writes successive objects into the basic_ostream separated by a delimiter?
 * [[189]](189.md) - Did you know that Compile Time Regular Expressions support extracting matches?
