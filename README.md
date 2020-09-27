@@ -11,6 +11,8 @@
 
 ### Tips
 
+
+* [[193]](193.md) - Did you know that C++20 added support for `constexpr new`?
 * [[192]](192.md) - Did you know about `std::expected` proposal for error handling?
 * [[191]](191.md) - Did you know that expression evaluation order is not specified?
 * [[190]](190.md) - Did you know that C++20 added `ostream_joiner` that writes successive objects into the basic_ostream separated by a delimiter?
