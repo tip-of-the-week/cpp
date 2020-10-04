@@ -11,7 +11,7 @@
 
 ### Tips
 
-
+* [[194]](194.md) - Did you know about C++23 proposal to add `views::enumerate`?
 * [[193]](193.md) - Did you know that C++20 added support for `constexpr new`?
 * [[192]](192.md) - Did you know about `std::expected` proposal for error handling?
 * [[191]](191.md) - Did you know that expression evaluation order is not specified?
