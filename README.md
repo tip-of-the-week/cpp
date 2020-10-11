@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[195]](195.md) - Did you know that C++20 added support for `[[no_unique_address]]` attribute?
 * [[194]](194.md) - Did you know about C++23 proposal to add `views::enumerate`?
 * [[193]](193.md) - Did you know that C++20 added support for `constexpr new`?
 * [[192]](192.md) - Did you know about `std::expected` proposal for error handling?
