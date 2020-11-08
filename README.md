@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[199]](199.md) - Did you know about proposal to introduce constexpr ternary operator?
 * [[198]](198.md) - Did you know about different ways of iterating over objects?
 * [[197]](197.md) - Did you know that Lambdas in Unevaluated Context combined with Template Constraints (Concepts) can be used with types?
 * [[196]](196.md) - Did you know that Lambdas in Unevaluated Context combined with Immediately Invoked Function Expressions (IIEF) can be used to simplify Template Meta-Programming?
