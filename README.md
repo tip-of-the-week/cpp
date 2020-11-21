@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[201]](201.md) - Did you know that `sizeof` operator can be used for efficient math computation?
 * [[200]](200.md) - Did you know that C++23 added `is_scoped_enum` type trait to detect whether an enum is scoped?
 * [[199]](199.md) - Did you know about proposal to introduce constexpr ternary operator?
 * [[198]](198.md) - Did you know about different ways of iterating over objects?
