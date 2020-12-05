@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[203]](203.md) - Did you know that in C++ `char`, `signed char` and `unsigned char` are 3 different types?
 * [[202]](202.md) - Did you know that C++20 added `Using Enum` which introduces the enumerator names of the named enumeration as if by a using-declaration for each enumerator?
 * [[201]](201.md) - Did you know that `sizeof` operator can be used for efficient math computation?
 * [[200]](200.md) - Did you know that C++23 added `is_scoped_enum` type trait to detect whether an enum is scoped?
