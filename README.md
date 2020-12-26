@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[206]](206.md) - Did you know about proposal to add support for recursive lambdas?
 * [[205]](205.md) - Did you know that C++20 `std::to_array` supports creating from string literals?
 * [[204]](204.md) - Did you know that you can implement a compile-time map with C++?
 * [[203]](203.md) - Did you know that in C++ `char`, `signed char` and `unsigned char` are 3 different types?
