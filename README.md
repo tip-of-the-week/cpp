@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[210]](210.md) - Did you know about `Design By Introspection`?
 * [[209]](209.md) - Did you know about `Policy Based Design`?
 * [[208]](208.md) - Did you know that default template arguments can be explored with template template arguments?
 * [[207]](207.md) - Did you know about the proposal to add constexpr function parameters?
