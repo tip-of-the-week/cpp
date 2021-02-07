@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[212]](212.md) - Did you know that lambdas are const by default but can be mutable and keep state?
 * [[211]](211.md) - Did you know about C++2X Pattern Matching proposal?
 * [[210]](210.md) - Did you know about `Design By Introspection`?
 * [[209]](209.md) - Did you know about `Policy Based Design`?
