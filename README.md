@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[213]](213.md) - Did you know that mapping types to values is a simple way to transition from compile-time to run-time space?
 * [[212]](212.md) - Did you know that lambdas are const by default but can be mutable and keep state?
 * [[211]](211.md) - Did you know about C++2X Pattern Matching proposal?
 * [[210]](210.md) - Did you know about `Design By Introspection`?
