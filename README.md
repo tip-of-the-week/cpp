@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[217]](217.md) - Did you know the difference between fakes, stubs, mocks?
 * [[216]](216.md) - Did you know that you can inject singletons to improve testability?
 * [[215]](215.md) - Did you know C++2X Pattern Matching can be used for run-time dispatching?
 * [[214]](214.md) - Did you know about variadic aggregate initialization?
