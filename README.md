@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[220]](220.md) - Did you know that with Automatic DI one can control how dependencies are being created?
 * [[219]](219.md) - Did you know about Automatic Dependency Injection libraries such as DI?
 * [[218]](218.md) - Did you know about different ways of constructor Dependency Injection?
 * [[217]](217.md) - Did you know the difference between fakes, stubs, mocks?
