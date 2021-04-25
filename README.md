@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[223]](223.md) - Did you know about the proposal to add json support to the standard library?
 * [[222]](222.md) - Did you know that C++23 added `contains` function to `string_view`?
 * [[221]](221.md) - Did you know that with Automatic DI production wiring can be overwritten for integration testing?
 * [[220]](220.md) - Did you know that with Automatic DI one can control how dependencies are being created?
