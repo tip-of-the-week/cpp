@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[226]](226.md) - Did you know about C++23 feature which adds support for inheriting from std::variant?
 * [[225]](225.md) - Did you know about C++23 feature which removes unnecessary ()’s from C++ lambdas?
 * [[224]](224.md) - Did you know that the JSON standard does not specify that the insertion order of object elements should be preserved?
 * [[223]](223.md) - Did you know about the proposal to add json support to the standard library?
