@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[228]](228.md) - Did you know that C++ allows accessing private members with friend injection?
 * [[227]](227.md) - Did you know that `std::variant` become valueless by exception?
 * [[226]](226.md) - Did you know about C++23 feature which adds support for inheriting from std::variant?
 * [[225]](225.md) - Did you know about C++23 feature which removes unnecessary ()’s from C++ lambdas?
