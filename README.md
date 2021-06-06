@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[229]](229.md) - Did you know about python's named tuples?
 * [[228]](228.md) - Did you know that C++ allows accessing private members with friend injection?
 * [[227]](227.md) - Did you know that `std::variant` become valueless by exception?
 * [[226]](226.md) - Did you know about C++23 feature which adds support for inheriting from std::variant?
