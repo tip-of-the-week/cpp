@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[231]](231.md) - Did you know about C++17 variadic using declaration?
 * [[230]](230.md) - Did you know that C++23 added `if consteval`?
 * [[229]](229.md) - Did you know about python's named tuples?
 * [[228]](228.md) - Did you know that C++ allows accessing private members with friend injection?
