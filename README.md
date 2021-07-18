@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[235]](235.md) - Did you know that C++20 `[[no_unique_address]]` can be used to implement lazy/fast/memory efficient views?
 * [[234]](234.md) - Did you know about function-try-block and that exceptions caught inside that block are implicitly rethrown?
 * [[233]](233.md) - Did you know that C++20 made `typename` more optional?
 * [[232]](232.md) - Did you know that different overloads can have different specifiers?
