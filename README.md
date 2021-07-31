@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[237]](237.md) - Did you know about C++2X proposal for the Circle Meta-model for compilation-time meta-programming?
 * [[236]](236.md) - Did you know about `__builtin_dump_struct` clang-extension which can nicely print a struct?
 * [[235]](235.md) - Did you know that C++20 `[[no_unique_address]]` can be used to implement lazy/fast/memory efficient views?
 * [[234]](234.md) - Did you know about function-try-block and that exceptions caught inside that block are implicitly rethrown?
