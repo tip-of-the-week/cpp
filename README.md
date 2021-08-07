@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[238]](238.md) - Did you know that Circle Meta-model allows for applying `normal` STL for operations on @meta types?
 * [[237]](237.md) - Did you know about C++2X proposal for the Circle Meta-model for compilation-time meta-programming?
 * [[236]](236.md) - Did you know about `__builtin_dump_struct` clang-extension which can nicely print a struct?
 * [[235]](235.md) - Did you know that C++20 `[[no_unique_address]]` can be used to implement lazy/fast/memory efficient views?
