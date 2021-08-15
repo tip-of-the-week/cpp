@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[239]](239.md) - Did you know that Circle Meta-model allows to convert string to a type?
 * [[238]](238.md) - Did you know that Circle Meta-model allows for applying `normal` STL for operations on @meta types?
 * [[237]](237.md) - Did you know about C++2X proposal for the Circle Meta-model for compilation-time meta-programming?
 * [[236]](236.md) - Did you know about `__builtin_dump_struct` clang-extension which can nicely print a struct?
