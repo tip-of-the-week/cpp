@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[240]](240.md) - Did you know that `using-declarator` can be used to manipulate the overload set?
 * [[239]](239.md) - Did you know that Circle Meta-model allows to convert string to a type?
 * [[238]](238.md) - Did you know that Circle Meta-model allows for applying `normal` STL for operations on @meta types?
 * [[237]](237.md) - Did you know about C++2X proposal for the Circle Meta-model for compilation-time meta-programming?
