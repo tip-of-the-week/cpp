@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[242]](242.md) - Did you know that ANSI/ISO C++ conforming programs must not rely on a maximum template depth greater than 17 (changed to 1024 in C++11)?
 * [[241]](241.md) - Did you know about different ways of accessing C-style arrays by index?
 * [[240]](240.md) - Did you know that `using-declarator` can be used to manipulate the overload set?
 * [[239]](239.md) - Did you know that Circle Meta-model allows to convert string to a type?
