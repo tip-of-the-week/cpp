@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[244]](244.md) - Did you know about compiler predefined macros assosicated with the compilation date/time?
 * [[243]](243.md) - Did you know about C++2X `Pattern matching using is and as` proposal?
 * [[242]](242.md) - Did you know that ANSI/ISO C++ conforming programs must not rely on a maximum template depth greater than 17 (changed to 1024 in C++11)?
 * [[241]](241.md) - Did you know about different ways of accessing C-style arrays by index?
