@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[247]](247.md) - Did you know that `Deducing this` proposal has been voted out into C++23?
 * [[246]](246.md) - Did you know that C++11 added a numeric literal operator template?
 * [[245]](245.md) - Did you know about C++2X proposal to add Multidimensional subscript operator?
 * [[244]](244.md) - Did you know about compiler predefined macros assosicated with the compilation date/time?
