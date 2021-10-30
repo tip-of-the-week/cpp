@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[250]](250.md) - Did you know about methods to access the last element of variadic pack...?
 * [[249]](249.md) - Did you know that C++23 allows extended init-statement with alias-declaration in the for loop?
 * [[248]](248.md) - Did you know that CRTP can be implemented with C++23 `Deducing this`?
 * [[247]](247.md) - Did you know that `Deducing this` proposal has been voted out into C++23?
