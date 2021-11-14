@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[251]](251.md) - Did you know that C++23 added basic_string::resize_and_overwrite?
 * [[251]](251.md) - Did you know that C++20 added `type_identity` which implements the identity metafunction?
 * [[250]](250.md) - Did you know about methods to access the last element of variadic pack...?
 * [[249]](249.md) - Did you know that C++23 allows extended init-statement with alias-declaration in the for loop?
