@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[255]](255.md) - Did you know that static reflection proposal for C++2X can reflect functions?
 * [[254]](254.md) - Did you know about static reflection proposal for C++2X?
 * [[253]](253.md) - Did you know that C++20 extends support for data time utilities?
 * [[252]](252.md) - Did you know that C++23 added basic_string::resize_and_overwrite?
