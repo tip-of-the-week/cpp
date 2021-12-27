@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[258]](258.md) - Did you know that static reflection can be used to invoke functions with named parameters?
 * [[257]](257.md) - Did you know that static reflection can be used to implement row polymorphism?
 * [[256]](256.md) - Did you know that static reflection proposal for C++2X has mirror/value based interface?
 * [[255]](255.md) - Did you know that static reflection proposal for C++2X can reflect functions?
