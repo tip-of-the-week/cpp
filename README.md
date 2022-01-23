@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[261]](261.md) - Did you know that C++23 added Monadic operations for std::optional?
 * [[260]](260.md) - Did you know that C++23 added std::move_only_function?
 * [[259]](259.md) - Did you know that static reflection supports introspecting constructors?
 * [[258]](258.md) - Did you know that static reflection can be used to invoke functions with named parameters?
