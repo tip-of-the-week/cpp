@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[264]](264.md) - Did you know that C++20 added `__VA_OPT__` for comma omission and comma deletion?
 * [[263]](263.md) - Did you know that C++23 added std::byteswap to swap bytes?
 * [[262]](262.md) - Did you know that type_info equality operator is constexpr in C++23?
 * [[261]](261.md) - Did you know that C++23 added Monadic operations for std::optional?
