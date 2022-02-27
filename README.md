@@ -11,6 +11,8 @@
 
 ### Tips
 
+* [[267]](267.md) - Did you know that C++23 added `std::unreachable`?
+* [[266]](266.md) - Did you know wrapping an unqualified function name in parentheses suppresses argument-dependent lookup?
 * [[265]](265.md) - Did you know that C++23 added Attributes on Lambda-Expressions?
 * [[264]](264.md) - Did you know that C++20 added `__VA_OPT__` for comma omission and comma deletion?
 * [[263]](263.md) - Did you know that C++23 added std::byteswap to swap bytes?
