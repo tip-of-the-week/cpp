@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[271]](271.md) - Did you know that C++20 added support for floating point values as non-type template parameters?
 * [[270]](270.md) - Did you know that C++23 added `std::to_underlying`?
 * [[269]](269.md) - Did you know about `boost::mp11::mp_with_index`?
 * [[268]](268.md) - Did you know that C++20 added `std::erase_if` for std::map and std::vector?
