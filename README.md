@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[273]](273.md) - Did you know that concept can be passed via lambda expression?
 * [[272]](272.md) - Did you know that C++20 added std::ranges::{all_of, any_of, none_of} algorithms?
 * [[271]](271.md) - Did you know that C++20 added support for floating point values as non-type template parameters?
 * [[270]](270.md) - Did you know that C++23 added `std::to_underlying`?
