@@ -11,7 +11,7 @@
 
 ### Tips
 
-* [[275]](275.md) - Did you know what is the underlying type of NTTP string aka `fixed_stirng`?
+* [[275]](275.md) - Did you know what is the underlying type of NTTP string aka `fixed_string`?
 * [[274]](274.md) - Did you know about C++23 proposal `Structured Bindings can introduce a Pack`?
 * [[273]](273.md) - Did you know that concept can be passed via lambda expression?
 * [[272]](272.md) - Did you know that C++20 added std::ranges::{all_of, any_of, none_of} algorithms?
