@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[276]](276.md) - Did you know that C++23 added `bind_back` to simplify writing higher order functions?
 * [[275]](275.md) - Did you know what is the underlying type of NTTP string aka `fixed_string`?
 * [[274]](274.md) - Did you know about C++23 proposal `Structured Bindings can introduce a Pack`?
 * [[273]](273.md) - Did you know that concept can be passed via lambda expression?
