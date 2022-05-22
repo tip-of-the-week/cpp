@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[279]](279.md) - Did you know that C++20 made `std::string` constexpr?
 * [[278]](278.md) - Did you know that C++23 added Literal Suffix for (signed) size_t?
 * [[277]](277.md) - Did you know that C++17 structured bindings support to custom classes can be added?
 * [[276]](276.md) - Did you know that C++23 added `bind_back` to simplify writing higher order functions?
