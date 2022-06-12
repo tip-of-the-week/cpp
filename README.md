@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[282]](282.md) - Did you know about introduced in C++20 `object concepts`?
 * [[281]](281.md) - Did you know about gtest.gmock mocking framework?
 * [[280]](280.md) - Did you know about use cases for type-based `reserved` decorator?
 * [[279]](279.md) - Did you know that C++20 made `std::string` constexpr?
