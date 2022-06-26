@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[284]](284.md) - Did you know about C++23 ispanstream - A strstream replacement using span<charT> as buffer?
 * [[283]](283.md) - Did you know that C++23 added `ranges::to` (conversion from ranges to containers)?
 * [[282]](282.md) - Did you know about introduced in C++20 `object concepts`?
 * [[281]](281.md) - Did you know about gtest.gmock mocking framework?
