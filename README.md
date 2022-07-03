@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[285]](285.md) - Did you know about C++20 template specialization with concepts?
 * [[284]](284.md) - Did you know about C++23 ispanstream - A strstream replacement using span<charT> as buffer?
 * [[283]](283.md) - Did you know that C++23 added `ranges::to` (conversion from ranges to containers)?
 * [[282]](282.md) - Did you know about introduced in C++20 `object concepts`?
