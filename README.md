@@ -11,6 +11,8 @@
 
 ### Tips
 
+* [[287]](287.md) - Did you know that C++23 added `auto(x): decay-copy in the language`?
+* [[286]](286.md) - Did you know that Circle supports Python's extended slice syntax for variadic packs?
 * [[285]](285.md) - Did you know about C++20 template specialization with concepts?
 * [[284]](284.md) - Did you know about C++23 ispanstream - A strstream replacement using span<charT> as buffer?
 * [[283]](283.md) - Did you know that C++23 added `ranges::to` (conversion from ranges to containers)?
