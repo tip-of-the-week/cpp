@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[289]](289.md) - Did you know that [[assume]] attribute has been accepted to C++23?
 * [[288]](288.md) - Did you know you can pass an array by reference?
 * [[287]](287.md) - Did you know that C++23 added `auto(x): decay-copy in the language`?
 * [[286]](286.md) - Did you know that Circle supports Python's extended slice syntax for variadic packs?
