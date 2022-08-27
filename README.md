@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[293]](293.md) - Did you know that C++17 [[nodiscard]] attribute can be applied not only to function?
 * [[292]](292.md) - Did you know about memoized for less types (more compile-time friendly) conditional_t?
 * [[291]](291.md) - Did you know about [[gnu::cold]] function attribute to mark functions which are unlikely to be called?
 * [[290]](290.md) - Did you know that lambda expression is guaranteed to have a unique type?
