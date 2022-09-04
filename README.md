@@ -11,6 +11,7 @@
 
 ### Tips
 
+* [[294]](294.md) - Did you know that with C++20 (constexpr containers) TMP can be achieved with STL?
 * [[293]](293.md) - Did you know that C++17 [[nodiscard]] attribute can be applied not only to function?
 * [[292]](292.md) - Did you know about memoized for less types (more compile-time friendly) conditional_t?
 * [[291]](291.md) - Did you know about [[gnu::cold]] function attribute to mark functions which are unlikely to be called?
