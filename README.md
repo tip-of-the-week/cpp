@@ -124,10 +124,7 @@
 * [[184]](tips/184.md) - Did you know that you can customize formatter for your classes with std::format?
 * [[183]](tips/183.md) - Did you know that Formatted output has been accepted into C++20?
 * [[182]](tips/182.md) - Did you know about the proposal to add Non-terminal variadic template parameters?
-
----
-
-TODO/WIP
+* ...
 
 ---
 
