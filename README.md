@@ -1,8 +1,9 @@
-## C++ Tip of The Week (https://quantlabfinancial.github.io/cpp_tip_of_the_week/)
+## C++ Tip of The Week
 ---
 
 > Your weekly dose of modern C++ challenge (Release every `Sunday`).
 
+* https://quantlabfinancial.github.io/cpp_tip_of_the_week
 * How to contribute/add a solution?
 
   * Contributions are always very much appreciated. Just create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your solution.
