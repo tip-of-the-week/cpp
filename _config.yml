@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 markdown: GFM
-
+exclude:
+  tips
