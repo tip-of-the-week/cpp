@@ -1,4 +1,4 @@
-## C++ Tip of The Week
+## C++ Tip of The Week (https://quantlabfinancial.github.io/cpp_tip_of_the_week/)
 ---
 
 > Your weekly dose of modern C++ challenge (Release every `Sunday`).
