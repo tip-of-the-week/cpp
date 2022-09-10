@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[295]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/295.md) - Did you know that C++23 added `stacktrace` library?
 * [[294]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/294.md) - Did you know that with C++20 (constexpr containers) TMP can be achieved with STL?
 * [[293]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/293.md) - Did you know that C++17 [[nodiscard]] attribute can be applied not only to function?
 * [[292]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/292.md) - Did you know about memoized for less types (more compile-time friendly) conditional_t?
