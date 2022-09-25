@@ -12,7 +12,8 @@
 
 ### Tips
 
-* [[296]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/296.md) - Did you know that C++20 introduced coroutines?
+* [[297]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/297.md) - Did you know that C++20 introduced coroutines? (co_await)
+* [[296]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/296.md) - Did you know that C++20 introduced coroutines? (co_yield)
 * [[295]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/295.md) - Did you know that C++23 added `stacktrace` library?
 * [[294]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/294.md) - Did you know that with C++20 (constexpr containers) TMP can be achieved with STL?
 * [[293]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/293.md) - Did you know that C++17 [[nodiscard]] attribute can be applied not only to function?
