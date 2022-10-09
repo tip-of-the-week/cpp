@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[299]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/299.md) - Did you know that C++20 concepts can be used to avoid immplicit conversions?
 * [[298]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/298.md) - Did you know that C++23 added static operator()?
 * [[297]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/297.md) - Did you know that C++20 introduced coroutines? (co_await)
 * [[296]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/296.md) - Did you know that C++20 introduced coroutines? (co_yield)
