@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[303]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/303.md) - Did you about typename erasure technique to reduce compilation times with templates?
 * [[302]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/302.md) - Did you now that with concepts you can override a type?
 * [[301]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/301.md) - Did you now that functions in <charconv> are constexpr since C++23?
 * [[300]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/300.md) - Did you know that C++23 added support for constexpr std::bitset?
