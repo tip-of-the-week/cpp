@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[305]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/305.md) - Did you know about (rejected) proposal for homogeneous variadic function parameters?
 * [[304]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/304.md) - Did you know that tuple can be implement just with lambdas?
 * [[303]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/303.md) - Did you about typename erasure technique to reduce compilation times with templates?
 * [[302]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/302.md) - Did you now that with concepts you can override a type?
