@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[307]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/298.md) - Did you know that C++23 added static operator[]?
 * [[306]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/306.md) - Did you know about if/else hell anti-pattern?
 * [[305]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/305.md) - Did you know about (rejected) proposal for homogeneous variadic function parameters?
 * [[304]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/304.md) - Did you know that tuple can be implement just with lambdas?
