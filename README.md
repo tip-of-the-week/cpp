@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[309]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/309.md) - Did you know that C++20 added support for constexpr std::vector?
 * [[308]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/308.md) - Did you know that the layout of struct fields will affect its size/alignment?
 * [[307]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/307.md) - Did you know that C++23 added static operator[]?
 * [[306]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/306.md) - Did you know about if/else hell anti-pattern?
