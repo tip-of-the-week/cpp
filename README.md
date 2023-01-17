@@ -12,6 +12,9 @@
 
 ### Tips
 
+* [[313]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/313.md) - Did you know that C++26 added #embed?
+* [[312]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/312.md) - Did you know that C++20 added support for Unevaluated asm-declaration in constexpr functions?
+* [[311]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/311.md) - Did you know DRY (Don’t Repeat Yourself) comparisons pattern?
 * [[310]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/310.md) - Did you know that C+23 permitts static constexpr variables in constexpr functions?
 * [[309]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/309.md) - Did you know that C++20 added support for constexpr std::vector?
 * [[308]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/308.md) - Did you know that the layout of struct fields will affect its size/alignment?
