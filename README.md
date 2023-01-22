@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[314]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/314.md) - Did you know that with gnu:C++26 a more parts of static reflection can be emulated?
 * [[313]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/313.md) - Did you know that C++26 added #embed?
 * [[312]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/312.md) - Did you know that C++20 added support for Unevaluated asm-declaration in constexpr functions?
 * [[311]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/311.md) - Did you know DRY (Don’t Repeat Yourself) comparisons pattern?
