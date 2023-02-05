@@ -12,7 +12,8 @@
 
 ### Tips
 
-* [[315]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/315.md) - Did you about C++20 `is_layout_compatible_v` type_traits?
+* [[316]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/316.md) - Did you know about `std::rank/std::rank_v` type_trait to get the rank of the array?
+* [[315]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/315.md) - Did you know about C++20 `is_layout_compatible_v` type_traits?
 * [[314]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/314.md) - Did you know that with gnu:C++26 a more parts of static reflection can be emulated?
 * [[313]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/313.md) - Did you know that C++26 added #embed?
 * [[312]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/312.md) - Did you know that C++20 added support for Unevaluated asm-declaration in constexpr functions?
@@ -24,9 +25,9 @@
 * [[306]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/306.md) - Did you know about if/else hell anti-pattern?
 * [[305]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/305.md) - Did you know about (rejected) proposal for homogeneous variadic function parameters?
 * [[304]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/304.md) - Did you know that tuple can be implement just with lambdas?
-* [[303]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/303.md) - Did you about typename erasure technique to reduce compilation times with templates?
-* [[302]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/302.md) - Did you now that with concepts you can override a type?
-* [[301]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/301.md) - Did you now that functions in <charconv> are constexpr since C++23?
+* [[303]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/303.md) - Did you know about typename erasure technique to reduce compilation times with templates?
+* [[302]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/302.md) - Did you know that with concepts you can override a type?
+* [[301]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/301.md) - Did you know that functions in <charconv> are constexpr since C++23?
 * [[300]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/300.md) - Did you know that C++23 added support for constexpr std::bitset?
 * [[299]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/299.md) - Did you know that C++20 concepts can be used to avoid implicit conversions?
 * [[298]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/298.md) - Did you know that C++23 added static operator()?
