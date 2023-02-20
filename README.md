@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[318]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/318.md) - Did you know that `std::unique_ptr` can be constexpr in C++23?
 * [[317]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/317.md) - Did you know that with C++20 you can pass concepts?
 * [[316]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/316.md) - Did you know about `std::rank/std::rank_v` type_trait to get the rank of the array?
 * [[315]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/315.md) - Did you know about C++20 `is_layout_compatible_v` type_traits?
