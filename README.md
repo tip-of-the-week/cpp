@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[319]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/319.md) - Did you know that C++11 allows calling functions with reference-to-array parameters from an initializer list?
 * [[318]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/318.md) - Did you know that `std::unique_ptr` can be constexpr in C++23?
 * [[317]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/317.md) - Did you know that with C++20 you can pass concepts?
 * [[316]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/316.md) - Did you know about `std::rank/std::rank_v` type_trait to get the rank of the array?
