@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[322]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/322.md) - Did you know that C++23 added Monadic operations for std::expected?
 * [[321]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/321.md) - Did you know that C++23 added support for formatting ranges?
 * [[320]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/320.md) - Did you know about intrisincts to support SIMD (Single Instruction, Multiple Data) instructions?
 * [[319]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/319.md) - Did you know that C++11 allows calling functions with reference-to-array parameters from an initializer list?
