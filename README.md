@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[324]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/324.md) - Did you know about `virtual` inheritance in C++?
 * [[323]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/323.md) - Did you know that constexpr is strict about undefined behaviour (UB), object lifetime, etc?
 * [[322]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/322.md) - Did you know that C++23 added Monadic operations for std::expected?
 * [[321]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/321.md) - Did you know that C++23 added support for formatting ranges?
