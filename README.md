@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[328]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/328.md) - Did you know that C++23 extended floating-point types?
 * [[327]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/327.md) - Did you know that C++17 added `std::forward_as_tuple` and `std::make_from_tuple` and what’s the difference between them?
 * [[326]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/326.md) - Did you know that C++23 deprecated std::aligned_storage and std::aligned_union?
 * [[325]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/325.md) - Did you know about `typename erasure` technique (via Strong/Opaque Typedefs) in C++?
