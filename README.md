@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[331]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/331.md) - Did you about C++17 std::index_sequence, std::make_index_sequence?
 * [[330]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/330.md) - Did you know that C++17 added std::pmr::polymorphic_allocator?
 * [[329]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/329.md) - Did you know about C++ allows to pass Pointer To Member Function via template parameter?
 * [[328]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/328.md) - Did you know that C++23 extended floating-point types?
