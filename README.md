@@ -3,7 +3,7 @@
 
 > Your weekly dose of modern C++ challenge (Release every `Sunday`).
 
-* https://quantlabfinancial.github.io/cpp_tip_of_the_week
+* https://tip-of-the-week.github.io/cpp_tip_of_the_week/
 * How to contribute/add a solution?
 
   * Contributions are always very much appreciated. Just create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your solution.
@@ -167,4 +167,4 @@
 
 ---
 
-> Disclaimer `Quantlab Financial` is not responsible for the correction of solutions and/or reserves the right to contact/reward contributors.
+> Disclaimer This repo orignates from https://quantlabfinancial.github.io/cpp_tip_of_the_week
