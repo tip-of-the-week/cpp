@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[334]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/334.md) - Did you know that C++23 added std::invoke_r?
 * [[333]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/333.md) - Did you know that C++20 added std::span?
 * [[332]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/332.md) - Did you know that in C++ you can generate jump tables at compile-time?
 * [[331]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/331.md) - Did you about C++17 std::index_sequence, std::make_index_sequence?
