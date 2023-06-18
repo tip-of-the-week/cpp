@@ -12,12 +12,13 @@
 
 ### Tips
 
-* [[334]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/334.md) - Did you know that C++23 added std::invoke_r?
-* [[333]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/333.md) - Did you know that C++20 added std::span?
+* [[335]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/335.md) - Did you know that you can simplify `boost.mp11` API with DSL?
+* [[334]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/334.md) - Did you know that C++23 added `std::invoke_r`?
+* [[333]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/333.md) - Did you know that C++20 added `std::span`?
 * [[332]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/332.md) - Did you know that in C++ you can generate jump tables at compile-time?
-* [[331]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/331.md) - Did you about C++17 std::index_sequence, std::make_index_sequence?
-* [[330]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/330.md) - Did you know that C++17 added std::pmr::polymorphic_allocator?
-* [[329]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/329.md) - Did you know about C++ allows to pass Pointer To Member Function via template parameter?
+* [[331]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/331.md) - Did you about C++17 `std::index_sequence, std::make_index_sequence`?
+* [[330]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/330.md) - Did you know that C++17 added `std::pmr::polymorphic_allocator`?
+* [[329]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/329.md) - Did you know that C++ allows to pass Pointer To Member Function via template parameter?
 * [[328]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/328.md) - Did you know that C++23 extended floating-point types?
 * [[327]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/327.md) - Did you know that C++17 added `std::forward_as_tuple` and `std::make_from_tuple` and what’s the difference between them?
 * [[326]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/326.md) - Did you know that C++23 deprecated std::aligned_storage and std::aligned_union?
