@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[336]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/335.md) - Did you know about `gnu::vector_size` extension?
 * [[335]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/335.md) - Did you know that you can simplify `boost.mp11` API with DSL?
 * [[334]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/334.md) - Did you know that C++23 added `std::invoke_r`?
 * [[333]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/333.md) - Did you know that C++20 added `std::span`?
