@@ -1,0 +1,36 @@
+name: RSS feed generator
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+        with:
+          ref: master
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - run: python main.py
+
+      - name: push
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'master'
+          commit-message: '[no ci] Update RSS feed'
+          force-add: 'true'
+          files: "*.xml"
+          name: GitHub bot
+          email: noreply@github.com
