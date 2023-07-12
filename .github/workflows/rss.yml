@@ -25,7 +25,7 @@ jobs:
       - run: python rss_generator.py
 
       - name: push
-        uses: github-actions-x/commit@v2.8
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'master'
