@@ -22,7 +22,7 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python main.py
+      - run: python rss_generator.py
 
       - name: push
         uses: github-actions-x/commit@v2.8
