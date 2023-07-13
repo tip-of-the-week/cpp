@@ -29,9 +29,12 @@ def gen_feed(tips, url):
 
         content = tip["content"]
         updated = content
+        links_seen = set()
         for match in re.finditer(link_re, content):
             naked_link = match.group("link")
-            updated = updated.replace(naked_link, f"[{naked_link}]({naked_link})")
+            if naked_link not in links_seen:
+                updated = updated.replace(naked_link, f"[{naked_link}]({naked_link})")
+                links_seen.add(naked_link)
 
         # TODO: find a way to colorize the code, the documentation advise to have custom css
         # The classes should already have been applied to the code thanks to extension 'codehilite'
