@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[340]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/340.md) - Did you know that C++26 added bind front and back to NTTP callables?*
 * [[339]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/339.md) - Did you know about C++20 `std::next_permutation` algorithm?
 * [[338]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/338.md) - Did you know that C++26 added `@, $, and `` to the basic character set?
 * [[337]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/337.md) - Did you know that run-time dispatching over type-list can be implemented many different ways?
