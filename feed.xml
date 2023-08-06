@@ -10,7 +10,7 @@
             <title>342 - Did you know that C++26 added 'A nice placeholder with no name'?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/342.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/342.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -63,7 +63,7 @@ int main() {
             <title>341 - Did you know that C++26 added user-generated static_assert messages?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/341.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/341.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -120,7 +120,7 @@ constexpr auto format(const string&lt;Cs...&gt; fmt, auto&amp;&amp;... args) {
             <title>340 - Did you know that C++26 added bind front and back to NTTP callables?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/340.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/340.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -178,7 +178,7 @@ int main() {
             <title>339 - Did you know about C++20 `std::next_permutation` algorithm?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/339.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/339.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -363,7 +363,7 @@ constexpr auto invoke(auto fn, auto... ts) -&gt; R {
             <title>338 - Did you know that C++26 added `@, $, and `` to the basic character set?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/338.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/338.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -388,12 +388,10 @@ auto `grave_accent = 42;
 <pre class="codehilite"><code class="language-cpp">// math
 auto a  = 42;
 auto a` = a*2;
-</code></pre>
 
-<pre class="codehilite"><code class="language-cpp">// macros
+// macros
 $macro(...) ```
 
-```cpp
 // twitter
 auto id = @krisjusiak;
 </code></pre>
@@ -405,7 +403,7 @@ auto id = @krisjusiak;
             <title>337 - Did you know that run-time dispatching over type-list can be implemented many different ways?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/337.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/337.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -528,7 +526,7 @@ constexpr auto dispatch(const int id, const T&amp; data, const TExpr&amp; expr) 
             <title>336 - Did you know about `gnu::vector_size` extension?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/336.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/336.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -627,7 +625,7 @@ constexpr auto matmul(v16qi (&amp;A)[N], v16qi (&amp;B)[N], std::int32_t (&amp;C
             <title>335 - Did you know that you can simplify `boost.mp11` API with DSL*?*</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/335.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/335.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -821,7 +819,7 @@ static_assert(unique_event_ptrs&lt;foo1, bar1, foo1, foo1, bar1, bar2&gt; ==
             <title>334 - Did you know that C++23 added std::invoke_r?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/334.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/334.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -892,7 +890,7 @@ static_assert(typeid(unsigned long long) == typeid(call(1ll, 2ull, 3l)));
             <title>333 - Did you know that C++20 added std::span?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/333.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/333.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -969,7 +967,7 @@ static_assert(15 == sum(s));
             <title>332 - Did you know that in C++ you can generate jump tables at compile-time?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/332.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/332.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -1035,7 +1033,7 @@ constexpr auto dispatch(auto n) -&gt; int {
             <title>331 - Did you about C++17 std::index_sequence, std::make_index_sequence?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/331.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/331.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -1166,7 +1164,7 @@ constexpr const auto matrix =
             <title>330 - Did you know that C++17 added std::pmr::polymorphic_allocator?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/330.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/330.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -1333,7 +1331,7 @@ int main() {
             <title>329 - Did you know about C++ allows to pass Pointer To Member Function via template parameter?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/329.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/329.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -1494,7 +1492,7 @@ int main() {
             <title>328 - Did you know that C++23 extended floating-point types?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/328.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/328.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -1643,7 +1641,7 @@ auto min_max = [](auto t) {
             <title>327 - Did you know that C++17 added `std::forward_as_tuple` and `std::make_from_tuple` and what’s the difference between them?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/327.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/327.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -1826,7 +1824,7 @@ constexpr auto forward_as_tuple(Ts &amp;&amp;...vs) {
             <title>326 - Did you know that C++23 deprecated std::aligned_storage and std::aligned_union?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/326.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/326.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -2079,7 +2077,7 @@ class container {
             <title>325 - Did you know about `typename erasure` technique (via Strong/Opaque Typedefs) in C++?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/325.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/325.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -2307,7 +2305,7 @@ constexpr auto fn() {
             <title>324 - Did you know about `virtual` inheritance in C++?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/324.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/324.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -2451,7 +2449,7 @@ struct implementation&lt;V&gt; : virtual interface&lt;decltype(V)&gt; {
             <title>323 - Did you know that constexpr is strict about undefined behaviour (UB), object lifetime, etc?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/323.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/323.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -2754,7 +2752,7 @@ static_assert(m_1() == &quot;&quot;);
             <title>322 - Did you know that C++23 added Monadic operations for std::expected?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/322.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/322.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -2992,7 +2990,7 @@ std::expected&lt;order_with_id, error&gt; execute(auto&amp; ts, const market_dat
             <title>321 - Did you know that C++23 added support for formatting ranges?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/321.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/321.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -3115,7 +3113,7 @@ expect(&quot;[[97], [98, 99]]&quot;s ==
             <title>320 - Did you know about intrisincts to support SIMD (Single Instruction, Multiple Data) instructions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/320.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/320.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -3263,7 +3261,7 @@ int main() {
             <title>319 - Did you know that C++11 allows calling functions with reference-to-array parameters from an initializer list?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/319.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/319.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -3364,7 +3362,7 @@ consteval auto sum_n(const Lists (&amp;...v)[N]) {
             <title>318 - Did you know that `std::unique_ptr` can be constexpr in C++23?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/318.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/318.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -3542,7 +3540,7 @@ function(F) -&gt; function&lt;function_type_t&lt;decltype(&amp;F::operator())&gt
             <title>317 - Did you know that with C++20 you can pass concepts?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/317.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/317.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -3694,7 +3692,7 @@ constexpr auto create(auto&amp;&amp; injector) {
             <title>316 - Did you know about `std::rank/std::rank_v` type_trait to get the rank of the array?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/316.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/316.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -3835,7 +3833,7 @@ constexpr auto rank_v = []{
             <title>315 - Did you know about C++20 `is_layout_compatible_v` type_trait?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/315.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/315.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -3927,7 +3925,7 @@ constexpr auto count_compatible = (... + std::is_layout_compatible_v&lt;T, Ts&gt
             <title>314 - Did you know that with gnu:C++26 a more parts of static reflection can be emulated?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/314.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/314.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -4062,7 +4060,7 @@ template
             <title>313 - Did you know that C++26 added #embed?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/313.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/313.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -4208,7 +4206,7 @@ constexpr auto meta_contains =
             <title>312 - Did you know that C++20 added support for Unevaluated asm-declaration in constexpr functions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/312.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/312.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -4378,7 +4376,7 @@ int main(int argc, char**) {
             <title>311 - Did you know DRY (Don’t Repeat Yourself) comparisons pattern?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/311.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/311.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -4565,7 +4563,7 @@ struct any_of {
             <title>310 - Did you know that C+23 permitts static constexpr variables in constexpr functions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/310.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/310.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -4660,7 +4658,7 @@ template&lt;&gt;
             <title>309 - Did you know that C++20 added support for constexpr std::vector?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/309.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/309.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -4784,7 +4782,7 @@ static_assert(std::tuple{2} == filter([] { return std::tuple{1, 2, 3}; }, [](aut
             <title>308 - Did you know that the layout of struct fields will affect its size/alignment?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/308.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/308.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -5343,7 +5341,7 @@ template&lt;class T&gt; constexpr auto is_packed_layout_v= sizeof(T) &lt;=1 || i
             <title>307 - Did you know that C++23 added static operator[]?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/307.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/307.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -5474,7 +5472,7 @@ auto fn(){
             <title>306 - Did you know about if/else hell anti-pattern?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/306.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/306.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -5734,7 +5732,7 @@ int main() {
             <title>305 - Did you know about (rejected) proposal for homogeneous variadic function parameters?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/305.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/305.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -5956,7 +5954,7 @@ auto safe_call(auto fn, auto fmt, ...) {
             <title>304 - Did you know that tuple can be implement just with lambdas?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/304.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/304.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -6350,7 +6348,7 @@ template&lt;class T&gt; [[nodiscard]] constexpr auto get(auto t){
             <title>303 - Did you about typename erasure technique to reduce compilation times with templates?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/303.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/303.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -6465,7 +6463,7 @@ template&lt;class... Ts&gt;
             <title>302 - Did you now that with concepts you can override a type?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/302.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/302.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -6589,7 +6587,7 @@ static_assert(std::is_base_of_v&lt;std::__shared_ptr&lt;int, __gnu_cxx::_S_singl
             <title>301 - Did you now that functions in &lt;charconv&gt; are constexpr since C++23?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/301.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/301.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -6780,7 +6778,7 @@ template &lt;int N = 4&gt;
             <title>300 - Did you know that C++23 added support for constexpr std::bitset?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/300.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/300.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -6926,7 +6924,7 @@ template&lt;size_t N&gt;
             <title>299 - Did you know that C++20 concepts can be used to avoid implicit conversions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/299.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/299.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -7083,7 +7081,7 @@ static_assert(not can_invoke_with(foo, int{}, double{}, float{}, float{}));
             <title>298 - Did you know that C++23 added static operator()?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/298.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/298.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -7222,7 +7220,7 @@ constexpr auto count = [] -&gt; int {
             <title>297 - **Did you know that C++20 introduced coroutines?** (co__await)</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/297.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/297.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -7575,7 +7573,7 @@ class parser {
             <title>296 - **Did you know that C++20 introduced coroutines?** (co_yield)</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/296.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/296.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -8189,7 +8187,7 @@ constexpr auto sum = [](auto generator) {
             <title>295 - Did you know that C++23 added `stacktrace` library?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/295.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/295.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -8453,7 +8451,7 @@ template &lt;auto N&gt;
             <title>294 - Did you know that with C++20 (constexpr containers) TMP can be achieved with STL?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/294.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/294.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -8692,7 +8690,7 @@ auto first_or_last_depending_on_size = List | [] (boost::mp::concepts::meta auto
             <title>293 - Did you know that C++17 [[nodiscard]] attribute can be applied not only to function?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/293.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/293.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -8870,7 +8868,7 @@ int main() {
             <title>292 - Did you know about memoized for less types (more compile-time friendly) conditional_t?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/292.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/292.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -9069,7 +9067,7 @@ using conditional_t = typename detail::conditional&lt;B&gt;::template fn&lt;T, F
             <title>291 - Did you know about [[gnu::cold]] function attribute to mark functions which are unlikely to be called?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/291.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/291.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -9751,7 +9749,7 @@ auto test_lambda_abort(bool error) {
             <title>290 - Did you know that lambda expression is guaranteed to have a unique type?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/290.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/290.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -9902,7 +9900,7 @@ template&lt;class T, class U = same, class V = diff&lt;T&gt;&gt;
             <title>289 - Did you know that [[assume]] attribute has been accepted to C++23?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/289.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/289.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -10377,7 +10375,7 @@ struct smart_ptr final {
             <title>288 - Did you know you can pass an array by reference?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/288.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/288.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -10553,7 +10551,7 @@ template &lt;class T, std::size_t sz&gt;
             <title>287 - Did you know that C++23 added `auto(x): decay-copy in the language`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/287.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/287.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -10845,7 +10843,7 @@ namespace cpp23 {
             <title>286 - Did you know that Circle supports Python's extended slice syntax for variadic packs?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/286.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/286.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -10989,7 +10987,7 @@ static_assert(std::tuple{4, 5, 6}  == [](auto... ts) { return std::tuple{ts...[3
             <title>285 - Did you know about C++20 template specialization with concepts?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/285.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/285.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -11129,7 +11127,7 @@ struct foobars&lt;C&lt;fs...&gt;, C&lt;bs...&gt;&gt; {};
             <title>284 - Did you know about C++23 ispanstream - A strstream replacement using span&lt;charT&gt; as buffer?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/284.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/284.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -11377,7 +11375,7 @@ template&lt;class... Ts, auto N&gt;
             <title>283 - Did you know that C++23 added `ranges::to` (conversion from ranges to containers)?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/283.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/283.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -11718,7 +11716,7 @@ namespace test::stl {
             <title>282 - Did you know about introduced in C++20 `object concepts`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/282.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/282.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -12294,7 +12292,7 @@ static_assert(not std::regular&lt;not_regular&gt;);
             <title>281 - Did you know about gtest.gmock mocking framework?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/281.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/281.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -12483,7 +12481,7 @@ struct mock_on : ::testing::StrictMock&lt;mock&lt;TEvents&gt;&gt;...{
             <title>280 - Did you know about use cases for type-based `reserved` decorator?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/280.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/280.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -12839,7 +12837,7 @@ struct reserved : T {
             <title>279 - Did you know that C++20 made `std::string` constexpr?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/279.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/279.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -12930,7 +12928,7 @@ static_assert(&quot;abc&quot;s == concat([]{return &quot;a&quot;s;}, []{return &
             <title>278 - Did you know that C++23 added Literal Suffix for (signed) size_t?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/278.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/278.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -13055,7 +13053,7 @@ int main() {
             <title>277 - Did you know that C++17 structured bindings support to custom classes can be added?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/277.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/277.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -13215,7 +13213,7 @@ using make_index_sequence = typename detail::make_index_sequence&lt;N&gt;::type;
             <title>276 - Did you know that C++23 added `bind_back` to simplify writing higher order functions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/276.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/276.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -13405,7 +13403,7 @@ template &lt;typename ... Args&gt;
             <title>275 - Did you know what is the underlying type of NTTP string aka `fixed_string`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/275.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/275.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -13552,7 +13550,7 @@ using to_string_t = decltype([]&lt;auto... Is&gt;(std::index_sequence&lt;Is...&g
             <title>274 - Did you know about C++23 proposal `Structured Bindings can introduce a Pack`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/274.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/274.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -13786,7 +13784,7 @@ constexpr auto first(auto... args) {
             <title>273 - Did you know that concept can be passed via lambda expression?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/273.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/273.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -14004,7 +14002,7 @@ concept fooable = requires (T t) { t.foo(satisfies&lt;Ts&gt;{}...); };
             <title>272 - **Did you know that C++20 added std::ranges::{all_of, any_of, none_of} algorithms**?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/272.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/272.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -14278,7 +14276,7 @@ template&lt;auto... Values&gt;
             <title>271 - Did you know that C++20 added support for floating point values as non-type template parameters?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/271.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/271.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -14436,7 +14434,7 @@ template&lt;double Epsilon = 0.1&gt;
             <title>270 - Did you know that C++23 added `std::to_underlying`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/270.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/270.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -14754,7 +14752,7 @@ constexpr auto sum_enums = []{
             <title>269 - Did you know about `boost::mp11::mp_with_index`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/269.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/269.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -15069,7 +15067,7 @@ auto vector_to_array(const auto &amp;v, auto f) -&gt; void { return f(ToArray{v}
             <title>268 - Did you know that C++20 added `std::erase_if` for std::map and std::vector?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/268.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/268.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -15382,7 +15380,7 @@ template &lt;class... Ts&gt;
             <title>267 - Did you know that C++23 added `std::unreachable`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/267.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/267.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -15572,7 +15570,7 @@ constexpr auto switch_id(const auto id) {
             <title>266 - Did you know wrapping an unqualified function name in parentheses suppresses argument-dependent lookup?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/266.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/266.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -15655,7 +15653,7 @@ struct foo {};
             <title>265 - Did you know that C++23 added Attributes on Lambda-Expressions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/265.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/265.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -15717,7 +15715,7 @@ int main() {
             <title>264 - Did you know that C++20 added `__VA_OPT__` for comma omission and comma deletion?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/264.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/264.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -15784,7 +15782,7 @@ int main() {
             <title>263 - Did you know that C++23 added std::byteswap to swap bytes?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/263.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/263.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -16086,7 +16084,7 @@ auto make_output = [](auto x){
             <title>262 - Did you know that type_info equality operator is constexpr in C++23?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/262.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/262.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -16297,7 +16295,7 @@ consteval bool compare_types(){
             <title>261 - Did you know that C++23 added Monadic operations for std::optional?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/261.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/261.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -16434,7 +16432,7 @@ std::optional&lt;order_with_id&gt; execute(auto&amp; ts, const market_data&amp; 
             <title>260 - Did you know that C++23 added std::move_only_function?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/260.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/260.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -16505,7 +16503,7 @@ int main() {
             <title>259 - Did you know that static reflection supports introspecting constructors?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/259.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/259.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -16695,7 +16693,7 @@ private:
             <title>258 - Did you know that static reflection can be used to invoke functions with named parameters?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/258.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/258.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -16804,7 +16802,7 @@ int main() {
             <title>257 - Did you know that static reflection can be used to implement row polymorphism?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/257.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/257.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -17021,7 +17019,7 @@ struct rows : TRows... {
             <title>256 - Did you know that static reflection proposal for C++2X has mirror/value based interface?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/256.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/256.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -17210,7 +17208,7 @@ auto to_string(const T&amp; t) {
             <title>255 - Did you know that static reflection proposal for C++2X can reflect functions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/255.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/255.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -17551,7 +17549,7 @@ template&lt;class T&gt; auto to_string() {
             <title>254 - Did you know about static reflection proposal for C++2X?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/254.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/254.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -17856,7 +17854,7 @@ template &lt;class T&gt;
             <title>253 - Did you know that C++20 extends support for data time utilities?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/253.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/253.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -17928,7 +17926,7 @@ static_assert(24d / November/ 2022 == sys_days{2022y / November/ Thursday[4]} /*
             <title>252 - **Did you know that C++23 added basic_string::resize_and_overwrite**?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/252.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/252.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -18096,7 +18094,7 @@ int main() {
             <title>251 - Did you know that C++20 added `type_identity` which implements the identity metafunction?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/251.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/251.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -18218,7 +18216,7 @@ static_assert(sizeof(int) + sizeof(float) + sizeof(char) == overload_args_sum((n
             <title>250 - Did you know about methods to access the last element of variadic pack...?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/250.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/250.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -18513,7 +18511,7 @@ constexpr auto nth_element( auto ...  args )
             <title>249 - Did you know that C++23 allows extended init-statement with alias-declaration in the for loop?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/249.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/249.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -18657,7 +18655,7 @@ auto print(std::ostream&amp; os, auto... args) -&gt; std::ostream&amp; {
             <title>248 - Did you know that CRTP can be implemented with C++23 `Deducing this`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/248.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/248.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -18882,7 +18880,7 @@ auto get(const auto &amp;self) { return self.get(); }
             <title>247 - Did you know that `Deducing this` proposal has been voted out into C++23?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/247.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/247.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -19028,7 +19026,7 @@ static_assert(6 == sum(2, 3, 1));
             <title>246 - Did you know that C++11 added a numeric literal operator template?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/246.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/246.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -19287,7 +19285,7 @@ template &lt;char... Cs&gt;
             <title>245 - Did you know about C++2X proposal to add Multidimensional subscript operator?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/245.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/245.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -19565,7 +19563,7 @@ class mdarray{
             <title>244 - Did you know about compiler predefined macros assosicated with the compilation date/time?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/244.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/244.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -19756,7 +19754,7 @@ consteval auto strparse( T arg) -&gt; int
             <title>243 - Did you know about C++2X `Pattern matching using is and as` proposal?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/243.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/243.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -19927,7 +19925,7 @@ int main() {
             <title>242 - Did you know that ANSI/ISO C++ conforming programs must not rely on a maximum template depth greater than 17 (changed to 1024 in C++11)?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/242.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/242.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -20152,7 +20150,7 @@ struct data : TArgs... {<br />
             <title>241 - Did you know about different ways of accessing C-style arrays by index?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/241.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/241.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -20302,7 +20300,7 @@ constexpr auto sum_n(const auto&amp; array) {
             <title>240 - Did you know that `using-declarator` can be used to manipulate the overload set?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/240.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/240.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -20523,7 +20521,7 @@ auto sum_prices(Proc&amp;&amp; ... proc) {
             <title>239 - Did you know that Circle Meta-model allows to convert string to a type?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/239.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/239.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -20634,7 +20632,7 @@ constexpr auto strings_to_tuple(Ts ...) {
             <title>238 - Did you know that Circle Meta-model allows for applying `normal` STL for operations on @meta types?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/238.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/238.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -20832,7 +20830,7 @@ constexpr auto calls_verify_types(auto expected, auto given) {
             <title>237 - Did you know about C++2X proposal for the Circle Meta-model for compilation-time meta-programming?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/237.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/237.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -20987,7 +20985,7 @@ template&lt;class T&gt; auto to_tuple_with_names(const T&amp; t){
             <title>236 - Did you know about `__builtin_dump_struct` clang-extension which can nicely print a struct?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/236.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/236.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -21368,7 +21366,7 @@ template&lt;class T&gt; [[nodiscard]] auto to_tuple_with_names(const T&amp; t) {
             <title>235 - Did you know that C++20 `[[no_unique_address]]` can be used to implement lazy/fast/memory efficient views?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/235.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/235.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -21550,7 +21548,7 @@ template &lt;class T&gt;
             <title>234 - Did you know about function-try-block and that exceptions caught inside that block are implicitly rethrown?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/234.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/234.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -21666,7 +21664,7 @@ struct foo : Ts... {
             <title>233 - Did you know that C++20 made `typename` more optional?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/233.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/233.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -21746,7 +21744,7 @@ auto f8(auto t) -&gt; decltype(t)::type;
             <title>232 - Did you know that different overloads can have different specifiers?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/232.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/232.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -21849,7 +21847,7 @@ consteval auto f(auto... values) requires (sizeof...(values) &gt; 1) { return (.
             <title>231 - Did you know about C++17 variadic using declaration?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/231.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/231.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -22038,7 +22036,7 @@ struct handler final : on_method&lt;Ts&gt;... {
             <title>230 - Did you know that C++23 added `if consteval`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/230.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/230.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -22151,7 +22149,7 @@ constexpr auto add_or_sub = [](const auto... args) {
             <title>229 - Did you know about python's named tuples?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/229.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/229.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -22419,7 +22417,7 @@ struct namedtuple{
             <title>228 - Did you know that C++ allows accessing private members with friend injection?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/228.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/228.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -22624,7 +22622,7 @@ EXPOSE_MEMBER_AND_THEN_GO_THINK_ABOUT_WHAT_YOU_HAVE_DONE(business::messages, tra
             <title>227 - Did you know that `std::variant` become valueless by exception?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/227.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/227.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -22964,7 +22962,7 @@ int main() {
             <title>226 - Did you know about C++23 feature which adds support for inheriting from std::variant?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/226.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/226.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -23227,7 +23225,7 @@ const auto print_id = [] (auto&amp; os) {
             <title>225 - Did you know about C++23 feature which removes unnecessary ()’s from C++ lambdas?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/225.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/225.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -23296,7 +23294,7 @@ const auto print_id = [] (auto&amp; os) {
             <title>224 - Did you know that the JSON standard does not specify that the insertion order of object elements should be preserved?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/224.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/224.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -23570,7 +23568,7 @@ constexpr auto to_json(std::tuple&lt; named&lt;T&gt; ... &gt; const &amp; arg)
             <title>223 - Did you know about the proposal to add json support to the standard library?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/223.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/223.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -23764,7 +23762,7 @@ template&lt;class ...T&gt; constexpr auto to_json(const std::tuple&lt;named&lt;T
             <title>222 - Did you know that C++23 added `contains` function to `string_view`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/222.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/222.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -23966,7 +23964,7 @@ consteval auto values(auto in, auto str) {
             <title>221 - Did you know that with Automatic DI production wiring can be overwritten for integration testing?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/221.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/221.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -24121,7 +24119,7 @@ constexpr auto create(auto&amp;&amp; production, const TFakes&amp;... fakes) -&g
             <title>220 - Did you know that with Automatic DI one can control how dependencies are being created?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/220.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/220.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -24332,7 +24330,7 @@ int main() {
             <title>219 - Did you know about Automatic Dependency Injection libraries such as DI?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/219.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/219.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -24982,7 +24980,7 @@ int main() {
             <title>218 - Did you know about different ways of constructor Dependency Injection?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/218.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/218.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -25512,7 +25510,7 @@ bdd::gherkin::steps steps = [](auto&amp; steps) {
             <title>217 - Did you know the difference between fakes, stubs, mocks?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/217.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/217.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -26026,7 +26024,7 @@ bdd::gherkin::steps steps = [](auto&amp; steps) {
             <title>216 - Did you know that you can inject singletons to improve testability?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/216.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/216.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -26445,7 +26443,7 @@ int main() {
             <title>215 - Did you know C++2X Pattern Matching can be used for run-time dispatching?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/215.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/215.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -26751,7 +26749,7 @@ struct sm {
             <title>214 - Did you know about variadic aggregate initialization?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/214.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/214.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -27152,7 +27150,7 @@ private:
             <title>213 - Did you know that mapping types to values is a simple way to transition from compile-time to run-time space?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/213.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/213.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -27521,7 +27519,7 @@ struct sm {
             <title>212 - Did you know that lambdas are const by default but can be mutable and keep state?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/212.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/212.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -28142,7 +28140,7 @@ auto sum_prices = [sum = std::size_t{}](std::string_view buffer) mutable -&gt; s
             <title>211 - Did you know about C++2X Pattern Matching proposal?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/211.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/211.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -28584,7 +28582,7 @@ auto sum_prices = [sum = std::size_t{}](std::string_view buffer) mutable -&gt; s
             <title>210 - Did you know about `Design By Introspection`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/210.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/210.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -28844,7 +28842,7 @@ private:
             <title>209 - Did you know about `Policy Based Design`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/209.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/209.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -29054,7 +29052,7 @@ struct foo {
             <title>208 - Did you know that default template arguments can be explored with template template arguments?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/208.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/208.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -29364,7 +29362,7 @@ using rebind_defaults_t = detail::rebind&lt;T, type_defaults_t&lt;T&gt;, TBinds.
             <title>207 - Did you know about the proposal to add constexpr function parmaters?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/207.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/207.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -29662,7 +29660,7 @@ template&lt;class...Args&gt; struct tuple : std::tuple&lt;Args...&gt; {
             <title>206 - Did you know about proposal to add support for recursive lambdas?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/206.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/206.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -29840,7 +29838,7 @@ constexpr auto sum_years = [](const auto year) {
             <title>205 - Did you know that C++20 `std::to_array` supports creating from string literals?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/205.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/205.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -29990,7 +29988,7 @@ constexpr const auto xmas_tree = tree&lt;Size, T&gt;();
             <title>204 - Did you know that you can implement a compile-time map with C++?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/204.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/204.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -30252,7 +30250,7 @@ constexpr unpack&lt;T, pack&lt;Ts...&gt;, &quot;one&quot;, &quot;two&quot;&gt; m
             <title>203 - Did you know that in C++ `char`, `signed char` and `unsigned char` are 3 different types?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/203.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/203.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -30590,7 +30588,7 @@ static_assert(not [](auto... args) { return requires { foo(args...); }; }((signe
             <title>202 - Did you know that C++20 added `Using Enum` which introduces the enumerator names of the named enumeration as if by a using-declaration for each enumerator?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/202.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/202.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -30727,7 +30725,7 @@ static_assert(is_enum_in_scope&lt;InScope&gt;([](auto e){ return requires { e.ec
             <title>201 - Did you know that `sizeof` operator can be used for efficient math computation?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/201.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/201.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -30876,7 +30874,7 @@ constexpr auto exponent = []&lt;auto... Ns&gt;(std::index_sequence&lt;Ns...&gt;)
             <title>200 - Did you know that C++23 added `is_scoped_enum` type trait to detect whether an enum is scoped?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/200.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/200.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -31021,7 +31019,7 @@ concept any_enum = std::is_enum_v&lt;T&gt; and std::is_convertible_v&lt;T, std::
             <title>199 - Did you know about proposal to introduce constexpr ternary operator?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/199.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/199.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -31471,7 +31469,7 @@ constexpr auto operator or(const TCompare&amp; lhs, const auto&amp; false_in)
             <title>198 - Did you know about different ways of iterating over objects?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/198.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/198.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -31802,7 +31800,7 @@ auto iterate(std::vector&lt;T&gt; v, auto&amp;&amp; expr) -&gt; void {
             <title>197 - Did you know that Lambdas in Unevaluated Context combined with Template Constraints (Concepts) can be used with types?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/197.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/197.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -31946,7 +31944,7 @@ using copy_if = detail::type_filter&lt;TExpr, Ts...&gt;;
             <title>196 - Did you know that Lambdas in Unevaluated Context combined with Immediately Invoked Function Expressions (IIFE) can be used to simplify Template Meta-Programming?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/196.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/196.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -32065,7 +32063,7 @@ constinit auto add_pointer = type_list&lt;decltype([](auto v)
             <title>195 - Did you know that C++20 added support for `[[no_unique_address]]` attribute?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/195.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/195.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -32188,7 +32186,7 @@ struct [[gnu::packed]] foo {
             <title>194 - Did you know about C++23 proposal to add `views::enumerate`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/194.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/194.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -32372,7 +32370,7 @@ struct enumerate {
             <title>193 - Did you know that C++20 added support for `constexpr new`?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/193.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/193.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -32505,7 +32503,7 @@ struct unique_ptr {
             <title>192 - Did you know about `std::expected` proposal for error handling?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/192.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/192.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -32704,7 +32702,7 @@ struct expected : std::optional&lt;T&gt;
             <title>191 - Did you know that expression evaluation order is not specified?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/191.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/191.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -32804,7 +32802,7 @@ int main() {
             <title>190 - Did you know that C++20 added `ostream_joiner` that writes successive objects into the basic_ostream separated by a delimiter?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/190.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/190.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -32997,7 +32995,7 @@ public:
             <title>189 - Did you know that Compile Time Regular Expressions support extracting matches?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/189.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/189.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -33250,7 +33248,7 @@ constexpr auto parse_args&lt;empty&gt;(std::string_view input) -&gt; empty {
             <title>188 - Did you know about proposal to add Compile Time Regular Expressions?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/188.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/188.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -33611,7 +33609,7 @@ static_assert(ctre::match&lt;&quot;.*&quot;&gt;(&quot;hello world&quot;));
             <title>187 - Did you know that C++17 made exception specifications be part of the type system?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/187.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/187.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -33820,7 +33818,7 @@ constexpr auto function_pointer_maker() -&gt; decltype(&amp;T::template operator
             <title>186 - Did you know Non-Type Template Parameters (NTTP) with User-Defined Literals (UDL) can be used to get compile-time strings?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/186.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/186.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -34014,7 +34012,7 @@ constexpr auto fixed_format(auto format, auto... args) {
             <title>185 - Did you know about the proposal to make `printf` compile-time safe and with named arguments?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/185.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/185.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -34293,7 +34291,7 @@ constexpr auto has_valid_args(auto fmt, auto... args) {
             <title>184 - **Did you know that you can customize formatter for your classes with `std::format`**?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/184.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/184.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -34543,7 +34541,7 @@ struct fmt::formatter&lt;foo&lt;Ts...&gt;&gt; {
             <title>183 - Did you know that `Formatted output` has been accepted into C++20?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/183.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/183.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
@@ -34739,7 +34737,7 @@ id_continue       ::=  id_start | digit
             <title>182 - Did you know about the proposal to add Non-terminal variadic template parameters?</title>
             <link>https://github.com/tip-of-the-week/cpp/blob/master/tips/182.md</link>
             <guid>https://github.com/tip-of-the-week/cpp/blob/master/tips/182.md</guid>
-            <pubDate>Sun, 06 Aug 2023 12:20:23 GMT</pubDate>
+            <pubDate>Sun, 06 Aug 2023 12:25:52 GMT</pubDate>
             <description><![CDATA[ <div>
 <p><details open=true><summary>Info</summary>
 <ul>
