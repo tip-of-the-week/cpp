@@ -16,8 +16,8 @@
 * [[342]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/342.md) - Did you know that C++26 added 'A nice placeholder with no name'?
 * [[341]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/341.md) - Did you know that C++26 added user-generated static_assert messages?
 * [[340]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/340.md) - Did you know that C++26 added bind front and back to NTTP callables?
-* [[339]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/339.md) - Did you know about C++20 `std::next_permutation` algorithm?
-* [[338]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/338.md) - Did you know that C++26 added `@, $, and `` to the basic character set?
+* [[339]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/339.md) - Did you know that C++26 added `@, $, and `` to the basic character set?
+* [[338]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/338.md) - Did you know about C++20 `std::next_permutation` algorithm?
 * [[337]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/337.md) - Did you know that run-time dispatching over type-list can be implemented many different ways?
 * [[336]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/336.md) - Did you know about `gnu::vector_size` extension?
 * [[335]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/335.md) - Did you know that you can simplify `boost.mp11` API with DSL?
