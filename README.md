@@ -12,8 +12,8 @@
 
 ### Tips
 
-* [[345]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/344.md) - Did you know that C++26 allows constexpr cast from `void*`?
-* [[344]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/343.md) - Did you know that C++26 added `Member visit`?
+* [[345]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/345.md) - Did you know that C++26 allows constexpr cast from `void*`?
+* [[344]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/344.md) - Did you know that C++26 added `Member visit`?
 * [[343]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/343.md) - Did you know that C++26 std.format added formatting pointers ability?
 * [[342]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/342.md) - Did you know that C++26 added 'A nice placeholder with no name'?
 * [[341]](https://github.com/QuantlabFinancial/cpp_tip_of_the_week/blob/master/tips/341.md) - Did you know that C++26 added user-generated static_assert messages?
