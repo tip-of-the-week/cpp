@@ -12,7 +12,7 @@
 
 ### Tips
 
-* [[346]](/tips/346.md) - Did you know that C++26 added testing for success or failure of <charconv> functions?
+* [[346]](/tips/346.md) - Did you know that C++26 added testing for success or failure of `<charconv>` functions?
 * [[345]](/tips/345.md) - Did you know that C++26 allows constexpr cast from `void*`?
 * [[344]](/tips/344.md) - Did you know that C++26 added `Member visit`?
 * [[343]](/tips/343.md) - Did you know that C++26 std.format added formatting pointers ability?
