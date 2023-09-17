@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[348]](/tips/348.md) - Did you know that C++26 changed arithmetic overloads of std::to_string and std::to_wstring to use std::format?
 * [[347]](/tips/347.md) - Did you know that C++26 added more constexpr for `<cmath>` and `<complex>`?
 * [[346]](/tips/346.md) - Did you know that C++26 added testing for success or failure of `<charconv>` functions?
 * [[345]](/tips/345.md) - Did you know that C++26 allows constexpr cast from `void*`?
@@ -124,7 +125,7 @@
 * [[238]](/tips/238.md) - Did you know that Circle Meta-model allows for applying `normal` STL for operations on @meta types?
 * [[237]](/tips/237.md) - Did you know about C++2X proposal for the Circle Meta-model for compilation-time meta-progr
 * [[236]](/tips/236.md) - Did you know about `__builtin_dump_struct` clang-extension which can nicely print a struct?
-* [[235]](/tips/235.md) - Did you know that C++20 `[[no_unique_address]]` can be used to implement lazy/fast/memory efficient 
+* [[235]](/tips/235.md) - Did you know that C++20 `[[no_unique_address]]` can be used to implement lazy/fast/memory efficient
 * [[234]](/tips/234.md) - Did you know about function-try-block and that exceptions caught inside that block are implicitly
 * [[233]](/tips/233.md) - Did you know that C++20 made `typename` more optional?
 * [[232]](/tips/232.md) - Did you know that different overloads can have different specifiers?
