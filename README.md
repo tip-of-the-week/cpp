@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[349]](/tips/349.md) - Did you know that C++26 added new SI prefixes?
 * [[348]](/tips/348.md) - Did you know that C++26 changed arithmetic overloads of std::to_string and std::to_wstring to use std::format?
 * [[347]](/tips/347.md) - Did you know that C++26 added more constexpr for `<cmath>` and `<complex>`?
 * [[346]](/tips/346.md) - Did you know that C++26 added testing for success or failure of `<charconv>` functions?
