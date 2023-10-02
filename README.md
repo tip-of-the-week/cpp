@@ -12,6 +12,7 @@
 
 ### Tips
 
+* [[350]](/tips/350.md) - Did you know about C++26 proposal - Aggregates are named tuples?
 * [[349]](/tips/349.md) - Did you know that C++26 added new SI prefixes?
 * [[348]](/tips/348.md) - Did you know that C++26 changed arithmetic overloads of std::to_string and std::to_wstring to use std::format?
 * [[347]](/tips/347.md) - Did you know that C++26 added more constexpr for `<cmath>` and `<complex>`?
