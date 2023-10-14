@@ -37,7 +37,7 @@
 * [Did you know that C++23 added support for formatting ranges?](https://github.com/tip-of-the-week/cpp/blob/master/tips/321.md)
 * [Did you know that `std::unique_ptr` can be constexpr in C++23?](https://github.com/tip-of-the-week/cpp/blob/master/tips/318.md)
 * [Did you know that C++23 added static operator[]?](https://github.com/tip-of-the-week/cpp/blob/master/tips/307.md)
-* [Did you know that functions in <charconv> are constexpr since C++23?](https://github.com/tip-of-the-week/cpp/blob/master/tips/301.md)
+* [Did you know that functions in `<charconv>` are constexpr since C++23?](https://github.com/tip-of-the-week/cpp/blob/master/tips/301.md)
 * [Did you know that C++23 added support for constexpr std::bitset?](https://github.com/tip-of-the-week/cpp/blob/master/tips/300.md)
 * [Did you know that C++23 added static operator()?](https://github.com/tip-of-the-week/cpp/blob/master/tips/298.md)
 * [Did you know that C++23 added `stacktrace` library?](https://github.com/tip-of-the-week/cpp/blob/master/tips/295.md)
