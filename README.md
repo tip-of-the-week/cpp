@@ -130,6 +130,7 @@
 
 > C++17
 
+* [Did you know that the underlying visit implementation of std::visit has changed since GCC12+, Clang15+?](https://github.com/tip-of-the-week/cpp/blob/master/tips/353.md)
 * [Did you know that run-time dispatching over type-list can be implemented many different ways?](https://github.com/tip-of-the-week/cpp/blob/master/tips/337.md)
 * [Did you know that you can simplify `boost.mp11` API with DSL?](https://github.com/tip-of-the-week/cpp/blob/master/tips/335.md)
 * [Did you about C++17 `std::index_sequence, std::make_index_sequence`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/331.md)
