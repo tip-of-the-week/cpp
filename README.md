@@ -31,6 +31,7 @@
 
 > C++23
 
+* [Did you know that C++23 added range `string_view` constructor?**](https://github.com/tip-of-the-week/cpp/blob/master/tips/354.md)
 * [Did you know that C++23 added `std::invoke_r`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/334.md)
 * [Did you know that C++23 extended floating-point types?](https://github.com/tip-of-the-week/cpp/blob/master/tips/328.md)
 * [Did you know that C++23 deprecated std::aligned_storage and std::aligned_union?](https://github.com/tip-of-the-week/cpp/blob/master/tips/326.md)
