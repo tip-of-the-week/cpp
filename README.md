@@ -73,6 +73,7 @@
 
 > C++20
 
+* [Did you know that C++20 added constinit keyword?](https://github.com/tip-of-the-week/cpp/blob/master/tips/355.md)
 * [Did you know about C++20 `std::next_permutation` algorithm?](https://github.com/tip-of-the-week/cpp/blob/master/tips/338.md)
 * [Did you know that C++20 added `std::span`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/333.md)
 * [Did you know that with C++20 you can pass concepts?](https://github.com/tip-of-the-week/cpp/blob/master/tips/317.md)
