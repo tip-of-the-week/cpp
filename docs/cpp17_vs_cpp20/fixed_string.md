@@ -5,16 +5,17 @@
   ```
 
   C++17 via gnu-extension
+  
   ```cpp
   template<class T, T... Cs>
   constexpr auto operator""_cs() { return ct_string<Cs...>{}; }
-
-  ```
+  
   template<class> struct foo {};
   foo<decltype("bar"_cs)>;
   ```
 
   C++20 via fixed_string
+
   ```cpp
   template <std::size_t N>
   struct fixed_string final {
