@@ -14,6 +14,7 @@
 
 > C++26
 
+* [Did you know that C++26 added `Pack Indexing`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/358.md)
 * [Did you know about C++26 proposal - `variadic friends`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/352.md)
 * [Did you know about C++26 proposal - `inplace_vector`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/351.md)
 * [Did you know about C++26 proposal - Aggregates are named tuples?](https://github.com/tip-of-the-week/cpp/blob/master/tips/350.md)
