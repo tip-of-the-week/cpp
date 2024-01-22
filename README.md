@@ -18,6 +18,7 @@
 * [Did you know about C++26 static reflection proposal (2/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/362.md)
 * [Did you know about C++26 static reflection proposal (3/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/363.md)
 * [Did you know about C++26 static reflection proposal (4/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/364.md)
+* [Did you know about C++26 static reflection proposal (5/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/365.md)
 * [Did you know that C++26 added `Pack Indexing`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/358.md)
 * [Did you know about C++26 proposal - `variadic friends`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/352.md)
 * [Did you know about C++26 proposal - `inplace_vector`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/351.md)
