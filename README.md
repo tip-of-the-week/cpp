@@ -14,6 +14,7 @@
 
 > C++26
 
+* [Did you know about C++26 simd proposal (1/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/367.md)
 * [Did you know about C++26 static reflection proposal (1/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/361.md)
 * [Did you know about C++26 static reflection proposal (2/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/362.md)
 * [Did you know about C++26 static reflection proposal (3/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/363.md)
