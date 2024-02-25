@@ -39,6 +39,7 @@
 
 > C++23
 
+* [Did you know that C++23 added Explicit lifetime management (1/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/368.md)
 * [Did you know that C++23 added spanstream - A strstream replacement using span<charT> as buffer?](https://github.com/tip-of-the-week/cpp/blob/master/tips/360.md)
 * [Did you know that C++23 added standard support for `flat_map`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/357.md)
 * [Did you know that C++23 added range `string_view` constructor?](https://github.com/tip-of-the-week/cpp/blob/master/tips/354.md)
