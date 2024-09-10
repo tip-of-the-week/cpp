@@ -14,7 +14,7 @@
 
 > C++26
 
-* [Did you know C++26 added support constexpr placement new?](https://github.com/tip-of-the-week/cpp/blob/master/tips/375.md)
+* [Did you know that C++26 added support constexpr placement new?](https://github.com/tip-of-the-week/cpp/blob/master/tips/375.md)
 * [Did you know that C++26 added `= delete("should have a reason")`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/371.md)
 * [Did you know that C++26 added `span.at`?](https://github.com/tip-of-the-week/cpp/blob/master/tips/370.md)
 * [Did you know about C++26 simd proposal (1/N)?](https://github.com/tip-of-the-week/cpp/blob/master/tips/367.md)
