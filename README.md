@@ -4,13 +4,16 @@
 > Your weekly dose of modern C++ challenge (Release every `Sunday`).
 
 * https://tip-of-the-week.github.io/cpp
-* How to contribute/add a solution?
 
-  * Contributions are always very much appreciated. Just create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your solution.
+> #### FAQ
 
-* `RSS` feed
-
-  * https://github.com/tip-of-the-week/cpp/blob/master/tips/rss/feed.xml
+  * How to contribute/add a solution?
+  
+    * Contributions are always very much appreciated. Just create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your solution.
+  
+  * `RSS` feed
+  
+    * https://github.com/tip-of-the-week/cpp/blob/master/tips/rss/feed.xml
 
 ---
 
