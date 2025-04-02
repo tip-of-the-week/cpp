@@ -25,9 +25,10 @@ jobs:
           python-version: '3.9'
           cache: 'pip'
 
-      - run: pip install -r requirements.txt
-
-      - run: python rss_generator.py
+      - run: |
+          cd .github/workflows/rss
+          pip install -r requirements.txt
+          python rss_generator.py
 
       - name: push
         uses: github-actions-x/commit@v2.9
