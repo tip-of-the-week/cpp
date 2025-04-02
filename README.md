@@ -8,9 +8,9 @@
 
   * Contributions are always very much appreciated. Just create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your solution.
 
-> RSS feed
+  * `RSS` feed
 
-* https://github.com/tip-of-the-week/cpp/blob/master/tips/rss/feed.xml
+    * https://github.com/tip-of-the-week/cpp/blob/master/tips/rss/feed.xml
 
 ---
 
