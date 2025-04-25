@@ -1,23 +1,4 @@
 ## C++ Tip of The Week
----
-
-> Your weekly dose of modern C++ challenge (Release every `Sunday`).
-
-* https://tip-of-the-week.github.io/cpp
-
-> #### FAQ
-
-  * How to contribute/add a solution?
-  
-    * Contributions are always very much appreciated. Just create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) with your solution.
-  
-  * `RSS` feed
-  
-    * https://github.com/tip-of-the-week/cpp/blob/master/tips/rss/feed.xml
-
----
-
-### Tips
 
 > C++26
 
@@ -236,7 +217,3 @@
 * [Did you know that Circle Meta-model allows to convert string to a type?](https://github.com/tip-of-the-week/cpp/blob/master/tips/239.md)
 * [Did you know that Circle Meta-model allows for applying `normal` STL for operations on @meta types?](https://github.com/tip-of-the-week/cpp/blob/master/tips/238.md)
 * [Did you know about C++2X proposal for the Circle Meta-model for compilation-time meta-progr](https://github.com/tip-of-the-week/cpp/blob/master/tips/237.md)
-
----
-
-> Disclaimer This repo orignates from https://quantlabfinancial.github.io/cpp_tip_of_the_week
