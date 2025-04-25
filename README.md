@@ -206,7 +206,7 @@
 > * [Did you know about different ways of accessing C-style arrays by index?](https://github.com/tip-of-the-week/cpp/blob/master/tips/241.md)
 > * [Did you know that `using-declarator` can be used to manipulate the overload set?](https://github.com/tip-of-the-week/cpp/blob/master/tips/240.md)
 
-### GNU-extensions
+### C++-GNU
 
 > * [Did you know about `gnu::vector_size` extension?](https://github.com/tip-of-the-week/cpp/blob/master/tips/336.md)
 > * [Did you know about `__builtin_dump_struct` clang-extension which can nicely print a struct?](https://github.com/tip-of-the-week/cpp/blob/master/tips/236.md)
